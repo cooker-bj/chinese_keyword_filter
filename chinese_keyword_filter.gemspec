@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = ChineseKeywordFilter::VERSION
   spec.authors       = ["kang cao"]
   spec.email         = ["cooker_bj@hotmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{the is a validation for match regular chinese government}
+  spec.summary       = %q{it has a validator}
   spec.homepage      = ""
   spec.license       = "MIT"
 
