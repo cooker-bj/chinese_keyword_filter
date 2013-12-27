@@ -9,7 +9,7 @@ module ChineseKeywordFilter
 
       if defined? Rails
         custom_path="#{Rails.root}/config/custom_filter.dat"
-        add_filter_data(custom_path)
+        add_filter_data(custom_path) if File.readable?(custom_path)
       end
       super
 

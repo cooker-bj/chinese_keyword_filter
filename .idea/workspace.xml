@@ -5,7 +5,7 @@
     <ignored path="chinese_keyword_filter.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/chinese_keyword_filter.gemspec" changelist="cf597f3f-34f4-4650-b66d-3028651c9baa" time="1388158241229" ignored="false" />
-    <file path="/chinese_keyword_filter.rb" changelist="cf597f3f-34f4-4650-b66d-3028651c9baa" time="1388162702769" ignored="false" />
+    <file path="/chinese_keyword_filter.rb" changelist="cf597f3f-34f4-4650-b66d-3028651c9baa" time="1388163344186" ignored="false" />
     <file path="/chinese_keyword_filter_spec.rb" changelist="cf597f3f-34f4-4650-b66d-3028651c9baa" time="1387440954921" ignored="false" />
     <file path="/spec_helper.rb" changelist="cf597f3f-34f4-4650-b66d-3028651c9baa" time="1387369056726" ignored="false" />
     <file path="/word.dat" changelist="cf597f3f-34f4-4650-b66d-3028651c9baa" time="1387618276887" ignored="false" />
@@ -42,7 +42,7 @@
       <file leaf-file-name="chinese_keyword_filter.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/chinese_keyword_filter.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="17" selection-start="915" selection-end="915" vertical-scroll-proportion="0.59042555">
+            <state line="14" column="56" selection-start="507" selection-end="507" vertical-scroll-proportion="0.22340426">
               <folding />
             </state>
           </provider>
@@ -560,7 +560,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/chinese_keyword_filter.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="17" selection-start="915" selection-end="915" vertical-scroll-proportion="0.59042555">
+        <state line="14" column="56" selection-start="507" selection-end="507" vertical-scroll-proportion="0.22340426">
           <folding />
         </state>
       </provider>
