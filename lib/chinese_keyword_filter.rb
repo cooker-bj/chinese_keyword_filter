@@ -33,3 +33,5 @@ module ChineseKeywordFilter
 
   end
 end
+
+include ChineseKeywordFilter
